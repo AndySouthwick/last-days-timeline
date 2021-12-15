@@ -40,7 +40,11 @@
                     {
                         "eventName": "A Test A Test A Test",
                         "sources": [
-                            
+                            {
+                            "source": "Isaiah 3, 2nd Nephi 13",
+                            "ref": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/3?lang=eng"
+                            }
+
                         ]
                     }
                 ],
@@ -75,7 +79,10 @@
             },
             {
                 "eventName": "Redemption Of Zion",
-                "sources": [],
+                "sources": [{
+                    "source": "Isaiah 52",
+                    "ref": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/52?lang=eng"
+                }],
                 "imageSrc": ""
             }
         ], 
@@ -91,13 +98,22 @@
                     "sources": []
                 },
                 {
-                    "eventName": "A Test A Test A Test",
-                    "sources": []
+                    "eventName": "The Assyrian, Destroyer, Scourge",
+                    "sources": [{
+                        "source": "Isaiah 10:6 A hypocritial Nation",
+                        "ref": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/10?lang=eng&id=p6#p6"
+                    },
+                    {
+                        "source": "Isaiah 10:8 Are not all my princes kings? look all my puppets!",
+                        "ref": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/10?lang=eng&id=p8-p10#p8"
+                    }
+                      
+                ]
                 },
                 {
-                    "eventName": "The Assyrian, Destroyer, Scourge",
+                    "eventName": "A Test A Test A Test",
                     "sources": []
-                },
+                },  
                 {
                     "eventName": "Caled To The Courts Of Washington",
                     "sources": []
@@ -122,6 +138,7 @@
             "sources": []
         }]
     },
+    
     "New-Jerusalem": {
         "description": "The child is born! The city is finished and the righteous begin to gather to it.",
         "sources": [],
