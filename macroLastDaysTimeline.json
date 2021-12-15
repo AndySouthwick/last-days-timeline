@@ -5,18 +5,25 @@
         "events":  [
             {
                 "eventName": "Saints Fail To Build Zion and Redeem Her",
-                "sources": [],
+                "sources": [{
+                    "source": "D&C 101 Parable of the Noble Man and the Olive Trees",
+                    "ref": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101?lang=eng&id=p50#p50"
+                }],
                 "imageSrc": ""
             },
             {
                 "eventName": "Time of The Gentiles Is Fulfilled",
-                "sources": [],
+                "sources": [{
+                    "source": "D&C 45:21-25",
+                    "ref": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=p20-p25#p20"
+                }],
                 "imageSrc": ""
             },
             {
                 "eventName": "The Gentiles Cup of Iniquity is Full",
                 "sources": [{
-                    "scripture": "D&C: 101:11"
+                    "source": "D&C 101:11",
+                    "ref":"https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101?lang=eng&id=p11#p11"
                 }],
                 "imageSrc": ""
             },
@@ -25,11 +32,16 @@
                 "events": [
                     {
                         "eventName": "The Desolating Sickness",
-                        "sources": []
+                        "sources": [{
+                            "source": "D&C 45:31",
+                            "ref": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=p31#p31"
+                        }]
                     },
                     {
                         "eventName": "A Test A Test A Test",
-                        "sources": []
+                        "sources": [
+                            
+                        ]
                     }
                 ],
                 "sources": [],
@@ -44,7 +56,16 @@
             
             {
                 "eventName": "Joseph Smith Returns",
-                "sources": [],
+                "sources": [
+                    {
+                        "source": "D&C 101:55 The Lord Asks A Servant To Redeem The Vinyard",
+                        "ref": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101?lang=eng&id=p55-p62#p55"
+                    },
+                    {
+                        "source": "3rd Nephi 20 A Marred Servant",
+                        "ref": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/20?lang=eng&id=p43-p45#p43"
+                    }
+                ],
                 "imageSrc": ""
             },
             {
