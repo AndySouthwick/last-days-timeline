@@ -67,7 +67,6 @@
                     },
                     {
                         "source": "3rd Nephi 20 A Marred Servant",
-
                         "ref": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/20?lang=eng&id=p43-p45#p43"
                     }
                 ],
@@ -108,7 +107,7 @@
                 {
                     "eventName": "The Assyrian, Destroyer, Scourge",
                     "sources": [{
-                        "source": "Isaiah 10:6 A hypocritial Nation",
+                        "source": "Isaiah 10:6 A Hypocritial Nation",
                         "ref": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/10?lang=eng&id=p6#p6"
                     },
                     {
@@ -132,10 +131,17 @@
         },
         {
             "eventName": "Famine, Pestilence, Hail, Earthquake",
-            "sources": []
+            "sources": [{
+                "source": "Ether 14 Joseph in Egypt as a type",
+                "ref": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/13?lang=eng&id=p6-p8#p6"
+            }]
         },
         {
-            "eventName": "Return of The Lost Ten Tribes"
+            "eventName": "Return of The Lost Ten Tribes",
+            "sources": [{
+                "source": "Jeramiah: 16:14-15",
+                "ref": "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng&id=p14-p15#p14"
+            }]
         },
         {
             "eventName": "Truth and Righteousness Starts",
@@ -148,7 +154,7 @@
     },
     
     "New-Jerusalem": {
-        "description": "The child is born! The city is finished and the righteous begin to gather to it.",
+        "description": "The child is born! The city is finished and the righteous gather to it.",
         "sources": [],
         "events": [
             {
