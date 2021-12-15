@@ -67,6 +67,7 @@
                     },
                     {
                         "source": "3rd Nephi 20 A Marred Servant",
+
                         "ref": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/20?lang=eng&id=p43-p45#p43"
                     }
                 ],
@@ -74,7 +75,14 @@
             },
             {
                 "eventName": "Rending The Veil of Unbelief",
-                "sources": [],
+                "sources": [{
+                    "source": "Ethere 3:19 Faith as the brother of Jared",
+                    "ref": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=eng&id=p19#p19"
+                },
+                {
+                    "source": "Ethere 4:15 Rend The Veil, receive the hidden things",
+                    "ref": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/4?lang=eng&id=p15#p15"
+                }],
                 "imageSrc": ""
             },
             {
@@ -104,7 +112,7 @@
                         "ref": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/10?lang=eng&id=p6#p6"
                     },
                     {
-                        "source": "Isaiah 10:8 Are not all my princes kings? look all my puppets!",
+                        "source": "Isaiah 10:8 Are not all my princes kings? look at all my puppets!",
                         "ref": "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/10?lang=eng&id=p8-p10#p8"
                     }
                       
