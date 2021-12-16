@@ -137,8 +137,7 @@
         ],
         "imageSrc": ""
       }
-    ],
-    "signs": [{ "sign": "Figs" }]
+    ]
   },
   "Adam-Ondhi-Ahmen": {
     "description": "Multiple meetings, Christ comes to his people to prepare them for the building of the New Jerusalem, the keys are returned",
@@ -191,6 +190,10 @@
           {
             "source": "Ether 14 Joseph in Egypt as a type",
             "ref": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/13?lang=eng&id=p6-p8#p6"
+          },
+          {
+              "source": "The opening of the sixth seal earthquake",
+              "ref": "https://www.churchofjesuschrist.org/study/scriptures/nt/rev/6?lang=eng&id=p12#p12"
           }
         ]
       },
@@ -220,11 +223,16 @@
     "events": [
       {
         "eventName": "Truth and Righteousness Sweeps The Earth As A Flood",
-        "sources": []
-      },
-      {
-        "eventName": "Half Hour of Silence Begins",
-        "sources": []
+        "sources": [
+            {
+                "source": "Moses 7:62",
+                "ref": "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=eng&id=62#p62"
+            },
+            {
+                "source": "Pearl of Great Price Student Manual",
+                "ref": "https://www.churchofjesuschrist.org/study/manual/the-pearl-of-great-price-student-manual-2018/the-book-of-moses/moses-7-42-69?lang=eng&id=p27#p27"
+            }
+        ]
       },
       {
         "eventName": "Inherit The Desolate Cities",
@@ -259,6 +267,12 @@
       },
       {
         "eventName": "Woe 3"
+      },
+      {
+        "eventName": "Half Hour of Silence Begins",
+        "sources": [{
+            "source": "Revelation 7"
+        }]
       }
     ],
     "Signs": [
