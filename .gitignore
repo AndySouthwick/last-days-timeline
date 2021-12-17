@@ -1,1 +1,24 @@
 .history
+timeline/.DS_Store
+timeline/node_modules
+timeline/dist
+
+
+# local env files
+.timeline/.env.local
+timeline/.env.*.local
+
+# Log files
+timeline/npm-debug.log*
+timeline/yarn-debug.log*
+timeline/yarn-error.log*
+timeline/pnpm-debug.log*
+
+# Editor directories and files
+timeline/.idea
+timeline/.vscode
+timeline/*.suo
+timeline/*.ntvs*
+timeline/*.njsproj
+timeline/*.sln
+timeline/*.sw?
